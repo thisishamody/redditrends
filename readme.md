@@ -19,16 +19,18 @@ You can see all the required libraries in the requirements.txt
 
 
 
-### Usage
+## Usage
 
 `git clone https://github.com/yourusername/reddit-trend-analyzer.git`
 
 
-# Navigate to the project directory:
+### Navigate to the project directory:
 
 
 `cd reddit-trend-analyzer`
 
- # Run the Streamlit application:
+ ### Run the Streamlit application:
 
 `streamlit run app.py`
+
+
