@@ -14,7 +14,7 @@ nltk.download('punkt')
 nltk.download('stopwords')
 nltk.download('wordnet')
 
-# Initialize Reddit API client
+# Initialize Reddit API 
 reddit = praw.Reddit(
     client_id="1u34wifQ-abMQRn63mYXww",
     client_secret="8GqiM6Tet4JszgrAu61RFXLRhHykaQ",
